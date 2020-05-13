@@ -1,0 +1,2054 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-05-12T23:15:33.661-07:00
+  initializedAtString: 2020-05-12T23:15:33.661-07:00
+  log:
+  - commitID: 6a35cda22c642b7082246582e4bf3a00b2e5798b
+    mergeA: 
+    mergeB: 
+    authorName: LiamTapia
+    authorEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitName: LiamTapia
+    summary: Se agregaron items nuevos y se corrigio lo del cacao
+    description: 
+    timeString: 2020-05-12T21:54:45.000-07:00
+    commitTimeString: 2020-05-12T21:54:45.000-07:00
+    changes:
+    - path: '@Mayapan\Assets\Models\chile_amarillo.fbx'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\chile_amarillo.fbx
+      projectPath: Assets\Models\chile_amarillo.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\chile_amarillo.fbx.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\chile_amarillo.fbx.meta
+      projectPath: Assets\Models\chile_amarillo.fbx.meta
+      originalPath: '@Mayapan\Assets\Models\mazorca.fbx.meta'
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\chile_rojo.fbx'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\chile_rojo.fbx
+      projectPath: Assets\Models\chile_rojo.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\chile_rojo.fbx.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\chile_rojo.fbx.meta
+      projectPath: Assets\Models\chile_rojo.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\mazorca.fbx'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\mazorca.fbx
+      projectPath: Assets\Models\mazorca.fbx
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\mazorca_roja.fbx'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\mazorca_roja.fbx
+      projectPath: Assets\Models\mazorca_roja.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\mazorca_roja.fbx.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\mazorca_roja.fbx.meta
+      projectPath: Assets\Models\mazorca_roja.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\mazorca_verde.fbx'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\mazorca_verde.fbx
+      projectPath: Assets\Models\mazorca_verde.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\mazorca_verde.fbx.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\mazorca_verde.fbx.meta
+      projectPath: Assets\Models\mazorca_verde.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\cacao.prefab'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\cacao.prefab
+      projectPath: Assets\Prefabs\cacao.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\mazorca_roja.prefab'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\mazorca_roja.prefab
+      projectPath: Assets\Prefabs\mazorca_roja.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\mazorca_roja.prefab.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\mazorca_roja.prefab.meta
+      projectPath: Assets\Prefabs\mazorca_roja.prefab.meta
+      originalPath: '@Mayapan\Assets\Prefabs\mazorca.prefab.meta'
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\mazorca_verde.prefab'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\mazorca_verde.prefab
+      projectPath: Assets\Prefabs\mazorca_verde.prefab
+      originalPath: '@Mayapan\Assets\Prefabs\mazorca.prefab'
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\mazorca_verde.prefab.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\mazorca_verde.prefab.meta
+      projectPath: Assets\Prefabs\mazorca_verde.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scenes\SampleScene.unity'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Cacao.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Cacao.cs
+      projectPath: Assets\Scripts\Cacao.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Increase_Points.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Increase_Points.cs
+      projectPath: Assets\Scripts\Increase_Points.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Increase_Points.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Increase_Points.cs.meta
+      projectPath: Assets\Scripts\Increase_Points.cs.meta
+      originalPath: '@Mayapan\Assets\anim.cs.meta'
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Mazorca_Roja.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Mazorca_Roja.cs
+      projectPath: Assets\Scripts\Mazorca_Roja.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Mazorca_Roja.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Mazorca_Roja.cs.meta
+      projectPath: Assets\Scripts\Mazorca_Roja.cs.meta
+      originalPath: '@Mayapan\Assets\cacao.cs.meta'
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\PlayerController.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\PlayerController.cs
+      projectPath: Assets\Scripts\PlayerController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\PowerUpJump.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\PowerUpJump.cs
+      projectPath: Assets\Scripts\PowerUpJump.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\PowerUpJump.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\PowerUpJump.cs.meta
+      projectPath: Assets\Scripts\PowerUpJump.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\anim.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\anim.cs
+      projectPath: Assets\anim.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\cacao.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\cacao.cs
+      projectPath: Assets\cacao.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\ProjectVersion.txt'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: be8dc400ec0dd2897159b730eccb97f0a9f33d75
+    mergeA: 
+    mergeB: 
+    authorName: Cristian Astorga
+    authorEmail: cristian.astorga@uabc.edu.mx
+    commitEmail: cristian.astorga@uabc.edu.mx
+    commitName: Cristian Astorga
+    summary: animacion subir escalera y poste para checkpoint
+    description: 
+    timeString: 2020-04-30T22:59:04.000-07:00
+    commitTimeString: 2020-04-30T22:59:04.000-07:00
+    changes:
+    - path: '@Mayapan\.vscode\settings.json'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\.vscode\settings.json
+      projectPath: .vscode\settings.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Animations\Fire.controller'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Animations\Fire.controller
+      projectPath: Assets\Animations\Fire.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Animations\Fire.controller.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Animations\Fire.controller.meta
+      projectPath: Assets\Animations\Fire.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Animations\PlayerAnimations.controller'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Animations\PlayerAnimations.controller
+      projectPath: Assets\Animations\PlayerAnimations.controller
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\CheckpointPost.fbx'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\CheckpointPost.fbx
+      projectPath: Assets\Models\CheckpointPost.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\CheckpointPost.fbx.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\CheckpointPost.fbx.meta
+      projectPath: Assets\Models\CheckpointPost.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\Modelo1.0.4.fbx'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\Modelo1.0.4.fbx
+      projectPath: Assets\Models\Modelo1.0.4.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\Modelo1.0.4.fbx.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\Modelo1.0.4.fbx.meta
+      projectPath: Assets\Models\Modelo1.0.4.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\REd.mat'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\REd.mat
+      projectPath: Assets\Models\REd.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\REd.mat.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\REd.mat.meta
+      projectPath: Assets\Models\REd.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\WOOD.mat'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\WOOD.mat
+      projectPath: Assets\Models\WOOD.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\WOOD.mat.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\WOOD.mat.meta
+      projectPath: Assets\Models\WOOD.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\Yellow.mat'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\Yellow.mat
+      projectPath: Assets\Models\Yellow.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\Yellow.mat.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\Yellow.mat.meta
+      projectPath: Assets\Models\Yellow.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\cacao.fbx'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\cacao.fbx
+      projectPath: Assets\Models\cacao.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\cacao.fbx.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\cacao.fbx.meta
+      projectPath: Assets\Models\cacao.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\mazorca.fbx'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\mazorca.fbx
+      projectPath: Assets\Models\mazorca.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\mazorca.fbx.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\mazorca.fbx.meta
+      projectPath: Assets\Models\mazorca.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\untitled.fbx'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\untitled.fbx
+      projectPath: Assets\Models\untitled.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\untitled.fbx.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\untitled.fbx.meta
+      projectPath: Assets\Models\untitled.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Api.dll'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\Mono.Posix.dll'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\QuickGuide.pdf'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\System.Threading.dll'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\big-logo@2x.png'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\credits.txt'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\credits.txt.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\eula.txt'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\eula.txt.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\libsfw.bundle'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\libsfw.so'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\libsfw.so.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\sfw.net.dll'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\x64.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\x86.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\CheckpointPost.prefab'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\CheckpointPost.prefab
+      projectPath: Assets\Prefabs\CheckpointPost.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\CheckpointPost.prefab.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\CheckpointPost.prefab.meta
+      projectPath: Assets\Prefabs\CheckpointPost.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\Ladder.prefab'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\Ladder.prefab
+      projectPath: Assets\Prefabs\Ladder.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\Player 1.prefab'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\Player 1.prefab
+      projectPath: Assets\Prefabs\Player 1.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\cacao.prefab'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\cacao.prefab
+      projectPath: Assets\Prefabs\cacao.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\cacao.prefab.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\cacao.prefab.meta
+      projectPath: Assets\Prefabs\cacao.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\mazorca.prefab'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\mazorca.prefab
+      projectPath: Assets\Prefabs\mazorca.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\mazorca.prefab.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\mazorca.prefab.meta
+      projectPath: Assets\Prefabs\mazorca.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scenes\SampleScene.unity'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Cacao.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Cacao.cs
+      projectPath: Assets\Scripts\Cacao.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Cacao.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Cacao.cs.meta
+      projectPath: Assets\Scripts\Cacao.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Checkpoint.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Checkpoint.cs
+      projectPath: Assets\Scripts\Checkpoint.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Checkpoint.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Checkpoint.cs.meta
+      projectPath: Assets\Scripts\Checkpoint.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\DamagePlayer.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\DamagePlayer.cs
+      projectPath: Assets\Scripts\DamagePlayer.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\IncreaseLife.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\IncreaseLife.cs
+      projectPath: Assets\Scripts\IncreaseLife.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\IncreaseLife.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\IncreaseLife.cs.meta
+      projectPath: Assets\Scripts\IncreaseLife.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\IncreaseLives.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\IncreaseLives.cs
+      projectPath: Assets\Scripts\IncreaseLives.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\IncreaseLives.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\IncreaseLives.cs.meta
+      projectPath: Assets\Scripts\IncreaseLives.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Item_Anim.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Item_Anim.cs
+      projectPath: Assets\Scripts\Item_Anim.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Item_Anim.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Item_Anim.cs.meta
+      projectPath: Assets\Scripts\Item_Anim.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Ladder.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Ladder.cs
+      projectPath: Assets\Scripts\Ladder.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Mazorca.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Mazorca.cs
+      projectPath: Assets\Scripts\Mazorca.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Mazorca.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Mazorca.cs.meta
+      projectPath: Assets\Scripts\Mazorca.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\PlayerController.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\PlayerController.cs
+      projectPath: Assets\Scripts\PlayerController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\anim.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\anim.cs
+      projectPath: Assets\anim.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\anim.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\anim.cs.meta
+      projectPath: Assets\anim.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\cacao.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\cacao.cs
+      projectPath: Assets\cacao.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\cacao.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\cacao.cs.meta
+      projectPath: Assets\cacao.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Packages\manifest.json'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\ProjectVersion.txt'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 6c8ecd19ef29ee0367ba146cc338de8595ea0a1d
+    mergeA: 
+    mergeB: 
+    authorName: Kayardr
+    authorEmail: ricardo.castanon@uabc.edu.mx
+    commitEmail: ricardo.castanon@uabc.edu.mx
+    commitName: Kayardr
+    summary: pushing meta
+    description: 
+    timeString: 2020-04-22T13:13:07.000-07:00
+    commitTimeString: 2020-04-22T13:13:07.000-07:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\Ladder.fbx.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\Ladder.fbx.meta
+      projectPath: Assets\Models\Ladder.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\Modelo1.0.3.fbx.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\Modelo1.0.3.fbx.meta
+      projectPath: Assets\Models\Modelo1.0.3.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\Floor.prefab.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\Floor.prefab.meta
+      projectPath: Assets\Prefabs\Floor.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\Ladder.prefab.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\Ladder.prefab.meta
+      projectPath: Assets\Prefabs\Ladder.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\Player 1.prefab.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\Player 1.prefab.meta
+      projectPath: Assets\Prefabs\Player 1.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scenes\SampleScene.unity'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Ladder.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Ladder.cs.meta
+      projectPath: Assets\Scripts\Ladder.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\StepSounds.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\StepSounds.cs.meta
+      projectPath: Assets\Scripts\StepSounds.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sound.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sound.meta
+      projectPath: Assets\Sound.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sound\Music.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sound\Music.meta
+      projectPath: Assets\Sound\Music.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sound\Music\Atmospheric Ambient Jungle Music - Heart
+        of the Jungle (Royalty and Copyright Free).mp3.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sound\Music\Atmospheric
+        Ambient Jungle Music - Heart of the Jungle (Royalty and Copyright Free).mp3.meta
+      projectPath: Assets\Sound\Music\Atmospheric Ambient Jungle Music - Heart of
+        the Jungle (Royalty and Copyright Free).mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sound\Player.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sound\Player.meta
+      projectPath: Assets\Sound\Player.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sound\Player\Melee.mp3.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sound\Player\Melee.mp3.meta
+      projectPath: Assets\Sound\Player\Melee.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sound\Player\Pie.mp3.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sound\Player\Pie.mp3.meta
+      projectPath: Assets\Sound\Player\Pie.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sound\Player\Pie2.mp3.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sound\Player\Pie2.mp3.meta
+      projectPath: Assets\Sound\Player\Pie2.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sound\Player\bullet.mp3.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sound\Player\bullet.mp3.meta
+      projectPath: Assets\Sound\Player\bullet.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sound\Player\salto.mp3.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sound\Player\salto.mp3.meta
+      projectPath: Assets\Sound\Player\salto.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: e9ff7c62baefa29fa12e7a5bd8afbecc32267457
+    mergeA: 
+    mergeB: 
+    authorName: Kayardr
+    authorEmail: ricardo.castanon@uabc.edu.mx
+    commitEmail: ricardo.castanon@uabc.edu.mx
+    commitName: Kayardr
+    summary: Sonido agregado
+    description: 
+    timeString: 2020-04-21T20:24:10.000-07:00
+    commitTimeString: 2020-04-21T20:24:10.000-07:00
+    changes:
+    - path: '@Mayapan\Assets\Prefabs\Floor.prefab'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\Floor.prefab
+      projectPath: Assets\Prefabs\Floor.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\Player 1.prefab'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\Player 1.prefab
+      projectPath: Assets\Prefabs\Player 1.prefab
+      originalPath: '@Mayapan\Assets\Prefabs\Player.prefab'
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\Player.prefab.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\Player.prefab.meta
+      projectPath: Assets\Prefabs\Player.prefab.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scenes\SampleScene.unity'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Melee_Attack.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Melee_Attack.cs
+      projectPath: Assets\Scripts\Melee_Attack.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\PlayerController.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\PlayerController.cs
+      projectPath: Assets\Scripts\PlayerController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\StepSounds.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\StepSounds.cs
+      projectPath: Assets\Scripts\StepSounds.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sound\Music\Atmospheric Ambient Jungle Music - Heart
+        of the Jungle (Royalty and Copyright Free).mp3'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sound\Music\Atmospheric
+        Ambient Jungle Music - Heart of the Jungle (Royalty and Copyright Free).mp3
+      projectPath: Assets\Sound\Music\Atmospheric Ambient Jungle Music - Heart of
+        the Jungle (Royalty and Copyright Free).mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sound\Player\Melee.mp3'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sound\Player\Melee.mp3
+      projectPath: Assets\Sound\Player\Melee.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sound\Player\Pie.mp3'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sound\Player\Pie.mp3
+      projectPath: Assets\Sound\Player\Pie.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sound\Player\Pie2.mp3'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sound\Player\Pie2.mp3
+      projectPath: Assets\Sound\Player\Pie2.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sound\Player\bullet.mp3'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sound\Player\bullet.mp3
+      projectPath: Assets\Sound\Player\bullet.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sound\Player\salto.mp3'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sound\Player\salto.mp3
+      projectPath: Assets\Sound\Player\salto.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\TagManager.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: fd981d500422d67c0aa627cef612abafa6e496e0
+    mergeA: 
+    mergeB: 
+    authorName: Kayardr
+    authorEmail: ricardo.castanon@uabc.edu.mx
+    commitEmail: ricardo.castanon@uabc.edu.mx
+    commitName: Kayardr
+    summary: MOvimiento completo, faltan animaciones
+    description: 
+    timeString: 2020-04-15T08:00:59.000-07:00
+    commitTimeString: 2020-04-15T08:00:59.000-07:00
+    changes:
+    - path: '@Mayapan\Assets\Animations\PlayerAnimations.controller'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Animations\PlayerAnimations.controller
+      projectPath: Assets\Animations\PlayerAnimations.controller
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\Ladder.fbx'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\Ladder.fbx
+      projectPath: Assets\Models\Ladder.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\Modelo1.0.2.fbx'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\Modelo1.0.2.fbx
+      projectPath: Assets\Models\Modelo1.0.2.fbx
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\Modelo1.0.3.fbx'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\Modelo1.0.3.fbx
+      projectPath: Assets\Models\Modelo1.0.3.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\Ladder.prefab'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\Ladder.prefab
+      projectPath: Assets\Prefabs\Ladder.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\Player.prefab'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\Player.prefab
+      projectPath: Assets\Prefabs\Player.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scenes\SampleScene.unity'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Ladder.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Ladder.cs
+      projectPath: Assets\Scripts\Ladder.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Melee_Attack.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Melee_Attack.cs
+      projectPath: Assets\Scripts\Melee_Attack.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\PlayerController.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\PlayerController.cs
+      projectPath: Assets\Scripts\PlayerController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Weapon.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Weapon.cs
+      projectPath: Assets\Scripts\Weapon.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\crouch.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\crouch.cs
+      projectPath: Assets\Scripts\crouch.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 97e127a363b2d63b0eff56c4de7c2e8f35a11b24
+    mergeA: 
+    mergeB: 
+    authorName: Kayardr
+    authorEmail: ricardo.castanon@uabc.edu.mx
+    commitEmail: ricardo.castanon@uabc.edu.mx
+    commitName: Kayardr
+    summary: toMaster
+    description: 
+    timeString: 2020-04-15T07:45:30.000-07:00
+    commitTimeString: 2020-04-15T07:45:30.000-07:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\ProjectVersion.txt'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 0a33a34a37435114b8d91c7cef353f9f98618430
+    mergeA: 
+    mergeB: 
+    authorName: LiamTapia
+    authorEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitName: LiamTapia
+    summary: Merge aparentemente terminado.
+    description: 
+    timeString: 2020-03-25T14:02:02.000-07:00
+    commitTimeString: 2020-03-25T14:02:02.000-07:00
+    changes:
+    - path: '@Mayapan\Assets\Scenes\SampleScene.unity'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 9c0f7eccfa7e28b240f57ed482041b115d50803b
+    mergeA: 
+    mergeB: 
+    authorName: LiamTapia
+    authorEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitName: LiamTapia
+    summary: Merge avanzado
+    description: 
+    timeString: 2020-03-24T23:22:46.000-07:00
+    commitTimeString: 2020-03-24T23:22:46.000-07:00
+    changes:
+    - path: '@Mayapan\Assets\Prefabs\Bullet 1.prefab'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\Bullet 1.prefab
+      projectPath: Assets\Prefabs\Bullet 1.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\Bullet 1.prefab.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\Bullet 1.prefab.meta
+      projectPath: Assets\Prefabs\Bullet 1.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Resources.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Resources.meta
+      projectPath: Assets\Resources.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scenes\SampleScene.unity'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Enemy.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Enemy.cs
+      projectPath: Assets\Scripts\Enemy.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\TagManager.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: baf13b681641c6b9621dd3973f3e4dd1d0741ee0
+    mergeA: 03a742e465b07c72772c8c82983a0f38fc89590a
+    mergeB: f444d006b18ecf0f0818fc45e71bf0891c0fbe32
+    authorName: LiamTapia
+    authorEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitName: LiamTapia
+    summary: Intento 2
+    description: 
+    timeString: 2020-03-24T21:06:20.000-07:00
+    commitTimeString: 2020-03-24T21:06:20.000-07:00
+    changes: []
+  - commitID: 03a742e465b07c72772c8c82983a0f38fc89590a
+    mergeA: b28e63bad6332f1e403e137d76e1d8ad77aa7ec8
+    mergeB: b0082f02dad54024a44aa304dae5447aa4c72c9c
+    authorName: LiamTapia
+    authorEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitName: LiamTapia
+    summary: Intento 1
+    description: 
+    timeString: 2020-03-24T21:01:59.000-07:00
+    commitTimeString: 2020-03-24T21:01:59.000-07:00
+    changes: []
+  - commitID: b28e63bad6332f1e403e137d76e1d8ad77aa7ec8
+    mergeA: 9d11df38510c39d59ffa5b8620b344e98fc3b049
+    mergeB: 03ff37022d730208b42bcd859ec2bcee005fc4af
+    authorName: LiamTapia
+    authorEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitName: LiamTapia
+    summary: Merge remote-tracking branch 'origin/Melee' into testMerge
+    description: 
+    timeString: 2020-03-24T20:39:38.000-07:00
+    commitTimeString: 2020-03-24T20:39:38.000-07:00
+    changes: []
+  - commitID: 9d11df38510c39d59ffa5b8620b344e98fc3b049
+    mergeA: f7fbe308f22a41ee0da666b71f26ab38d8a75a88
+    mergeB: 853c47c8b76e9d39bbe5e9f0a8d8ee48b4fd6f17
+    authorName: LiamTapia
+    authorEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitName: LiamTapia
+    summary: Merge remote-tracking branch 'origin/crouch' into testMerge
+    description: 
+    timeString: 2020-03-24T20:31:26.000-07:00
+    commitTimeString: 2020-03-24T20:31:26.000-07:00
+    changes: []
+  - commitID: f7fbe308f22a41ee0da666b71f26ab38d8a75a88
+    mergeA: 
+    mergeB: 
+    authorName: Kayardr
+    authorEmail: ricardo.castanon@uabc.edu.mx
+    commitEmail: ricardo.castanon@uabc.edu.mx
+    commitName: Kayardr
+    summary: Solucion bug caida
+    description: 
+    timeString: 2020-03-24T12:16:05.000-07:00
+    commitTimeString: 2020-03-24T12:16:05.000-07:00
+    changes:
+    - path: '@Mayapan\Assets\Animations.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Animations.meta
+      projectPath: Assets\Animations.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Animations\PlayerAnimations.controller'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Animations\PlayerAnimations.controller
+      projectPath: Assets\Animations\PlayerAnimations.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Animations\PlayerAnimations.controller.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Animations\PlayerAnimations.controller.meta
+      projectPath: Assets\Animations\PlayerAnimations.controller.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models.meta
+      projectPath: Assets\Models.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\Modelo1.0.2.fbx'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\Modelo1.0.2.fbx
+      projectPath: Assets\Models\Modelo1.0.2.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Models\Modelo1.0.2.fbx.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Models\Modelo1.0.2.fbx.meta
+      projectPath: Assets\Models\Modelo1.0.2.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\Player.prefab'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\Player.prefab
+      projectPath: Assets\Prefabs\Player.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Prefabs\Player.prefab.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs\Player.prefab.meta
+      projectPath: Assets\Prefabs\Player.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scenes\SampleScene.unity'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\PlayerController.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\PlayerController.cs
+      projectPath: Assets\Scripts\PlayerController.cs
+      originalPath: '@Mayapan\Assets\Scripts\PlayerMovement.cs'
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\PlayerController.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\PlayerController.cs.meta
+      projectPath: Assets\Scripts\PlayerController.cs.meta
+      originalPath: '@Mayapan\Assets\Scripts\PlayerMovement.cs.meta'
+      indexStatus: 6
+      workTreeStatus: 0
+  - commitID: 853c47c8b76e9d39bbe5e9f0a8d8ee48b4fd6f17
+    mergeA: 
+    mergeB: 
+    authorName: Isaac Hernandez
+    authorEmail: 36175110+IsaacHC98@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: este archivo no es necesario en este branch
+    description: 
+    timeString: 2020-03-24T11:49:37.000-07:00
+    commitTimeString: 2020-03-24T11:49:37.000-07:00
+    changes:
+    - path: '@Mayapan\Assets\Scripts\PlayerMovement.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\PlayerMovement.cs.meta
+      projectPath: Assets\Scripts\PlayerMovement.cs.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: c9ca47d0e6926da80d933659613fc551d09aac4d
+    mergeA: 
+    mergeB: 
+    authorName: Isaac Hernandez
+    authorEmail: 36175110+IsaacHC98@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: este archivo no es necesario en este branch
+    description: 
+    timeString: 2020-03-24T11:49:18.000-07:00
+    commitTimeString: 2020-03-24T11:49:18.000-07:00
+    changes:
+    - path: '@Mayapan\Assets\Scripts\PlayerMovement.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\PlayerMovement.cs
+      projectPath: Assets\Scripts\PlayerMovement.cs
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: b0082f02dad54024a44aa304dae5447aa4c72c9c
+    mergeA: 
+    mergeB: 
+    authorName: Fubbledisrael
+    authorEmail: israel97_@hotmail.com
+    commitEmail: israel97_@hotmail.com
+    commitName: Fubbledisrael
+    summary: "Realizar da\xF1o al usuario con enemigos"
+    description: 
+    timeString: 2020-03-24T06:06:46.000-07:00
+    commitTimeString: 2020-03-24T06:06:46.000-07:00
+    changes:
+    - path: '@Mayapan\Assets\Scenes\SampleScene.unity'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\AttackEnemy.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\AttackEnemy.cs
+      projectPath: Assets\Scripts\AttackEnemy.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\AttackEnemy.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\AttackEnemy.cs.meta
+      projectPath: Assets\Scripts\AttackEnemy.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 3cc3dcb5a0c487e8639bc968954c6f7d51d746ff
+    mergeA: 
+    mergeB: 
+    authorName: Fubbledisrael
+    authorEmail: israel97_@hotmail.com
+    commitEmail: israel97_@hotmail.com
+    commitName: Fubbledisrael
+    summary: "Realizar da\xF1o al usuario con obstaculos"
+    description: 
+    timeString: 2020-03-24T05:46:00.000-07:00
+    commitTimeString: 2020-03-24T05:46:00.000-07:00
+    changes:
+    - path: '@Mayapan\Assets\Scenes\SampleScene.unity'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Controler.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Controler.cs
+      projectPath: Assets\Scripts\Controler.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Controler.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Controler.cs.meta
+      projectPath: Assets\Scripts\Controler.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\DamagePlayer.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\DamagePlayer.cs
+      projectPath: Assets\Scripts\DamagePlayer.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\DamagePlayer.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\DamagePlayer.cs.meta
+      projectPath: Assets\Scripts\DamagePlayer.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\MakeDamage.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\MakeDamage.cs
+      projectPath: Assets\Scripts\MakeDamage.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\MakeDamage.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\MakeDamage.cs.meta
+      projectPath: Assets\Scripts\MakeDamage.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\TagManager.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 03ff37022d730208b42bcd859ec2bcee005fc4af
+    mergeA: 
+    mergeB: 
+    authorName: LiamTapia
+    authorEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitName: LiamTapia
+    summary: Ataque Melee
+    description: 
+    timeString: 2020-03-24T01:52:38.000-07:00
+    commitTimeString: 2020-03-24T01:52:38.000-07:00
+    changes:
+    - path: '@Mayapan\Assets\Scripts\Enemy.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Enemy.cs
+      projectPath: Assets\Scripts\Enemy.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Enemy.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Enemy.cs.meta
+      projectPath: Assets\Scripts\Enemy.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Melee_Attack.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Melee_Attack.cs
+      projectPath: Assets\Scripts\Melee_Attack.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Melee_Attack.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Melee_Attack.cs.meta
+      projectPath: Assets\Scripts\Melee_Attack.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites.meta
+      projectPath: Assets\Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\Enemy color 1.mat'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\Enemy color
+        1.mat
+      projectPath: Assets\Sprites\Enemy color 1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\Enemy color 1.mat.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\Enemy color
+        1.mat.meta
+      projectPath: Assets\Sprites\Enemy color 1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\enemy attacked.mat'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\enemy attacked.mat
+      projectPath: Assets\Sprites\enemy attacked.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\enemy attacked.mat.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\enemy attacked.mat.meta
+      projectPath: Assets\Sprites\enemy attacked.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 31a1e78411821e9d6a40ef553496f91ee4293de8
+    mergeA: 
+    mergeB: 
+    authorName: LiamTapia
+    authorEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitEmail: 36176046+LiamTapia@users.noreply.github.com
+    commitName: LiamTapia
+    summary: Test branch melee atack.
+    description: 
+    timeString: 2020-03-23T22:28:06.000-07:00
+    commitTimeString: 2020-03-23T22:28:06.000-07:00
+    changes:
+    - path: '@Mayapan\ProjectSettings\ProjectVersion.txt'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: teste.txt
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\teste.txt
+      projectPath: ..\teste.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 87d86dd0dda4bb5221a449a058fce91ff91b27f6
+    mergeA: 
+    mergeB: 
+    authorName: IsaacHC98
+    authorEmail: isaac.hernandez.cano@uabc.edu.mx
+    commitEmail: isaac.hernandez.cano@uabc.edu.mx
+    commitName: IsaacHC98
+    summary: subiendo script de crouch
+    description: 
+    timeString: 2020-03-23T14:07:29.000-07:00
+    commitTimeString: 2020-03-23T14:07:29.000-07:00
+    changes:
+    - path: '@Mayapan\Assets\Scenes\SampleScene.unity'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\PlayerMovement.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\PlayerMovement.cs
+      projectPath: Assets\Scripts\PlayerMovement.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\PlayerMovement.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\PlayerMovement.cs.meta
+      projectPath: Assets\Scripts\PlayerMovement.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\crouch.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\crouch.cs
+      projectPath: Assets\Scripts\crouch.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\crouch.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\crouch.cs.meta
+      projectPath: Assets\Scripts\crouch.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: f444d006b18ecf0f0818fc45e71bf0891c0fbe32
+    mergeA: 
+    mergeB: 
+    authorName: oscarAMS95
+    authorEmail: 32280104+oscarAMS95@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Scripts de Disparo terminado
+    description: 
+    timeString: 2020-03-21T16:09:11.000-07:00
+    commitTimeString: 2020-03-21T16:09:11.000-07:00
+    changes:
+    - path: '@Mayapan\Assets\Scripts.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: a78d3407ab2d3e76d85fd7e92fe58e04a2662045
+    mergeA: 
+    mergeB: 
+    authorName: oscarAMS95
+    authorEmail: 32280104+oscarAMS95@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Scripts de Disparo
+    description: 
+    timeString: 2020-03-21T16:08:03.000-07:00
+    commitTimeString: 2020-03-21T16:08:03.000-07:00
+    changes:
+    - path: '@Mayapan\Assets\Scripts\Bullet.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Bullet.cs
+      projectPath: Assets\Scripts\Bullet.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Bullet.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Bullet.cs.meta
+      projectPath: Assets\Scripts\Bullet.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Enemy.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Enemy.cs
+      projectPath: Assets\Scripts\Enemy.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Enemy.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Enemy.cs.meta
+      projectPath: Assets\Scripts\Enemy.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Weapon.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Weapon.cs
+      projectPath: Assets\Scripts\Weapon.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\Weapon.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\Weapon.cs.meta
+      projectPath: Assets\Scripts\Weapon.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\move.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\move.cs
+      projectPath: Assets\Scripts\move.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\move.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\move.cs.meta
+      projectPath: Assets\Scripts\move.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 9eae12216feed90d6b118266afab5b4be0871439
+    mergeA: 
+    mergeB: 
+    authorName: oscarAMS95
+    authorEmail: 32280104+oscarAMS95@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Add files via upload
+    description: 
+    timeString: 2020-03-21T16:06:32.000-07:00
+    commitTimeString: 2020-03-21T16:06:32.000-07:00
+    changes:
+    - path: '@Mayapan\Assets\Resources\Bullet.prefab'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Resources\Bullet.prefab
+      projectPath: Assets\Resources\Bullet.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Resources\Bullet.prefab.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Resources\Bullet.prefab.meta
+      projectPath: Assets\Resources\Bullet.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\crab-idle-1.png'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\crab-idle-1.png
+      projectPath: Assets\Sprites\crab-idle-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\crab-idle-1.png.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\crab-idle-1.png.meta
+      projectPath: Assets\Sprites\crab-idle-1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\crab-idle-2.png'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\crab-idle-2.png
+      projectPath: Assets\Sprites\crab-idle-2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\crab-idle-2.png.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\crab-idle-2.png.meta
+      projectPath: Assets\Sprites\crab-idle-2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\crab-idle-3.png'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\crab-idle-3.png
+      projectPath: Assets\Sprites\crab-idle-3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\crab-idle-3.png.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\crab-idle-3.png.meta
+      projectPath: Assets\Sprites\crab-idle-3.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\crab-idle-4.png'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\crab-idle-4.png
+      projectPath: Assets\Sprites\crab-idle-4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\crab-idle-4.png.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\crab-idle-4.png.meta
+      projectPath: Assets\Sprites\crab-idle-4.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\gate-01.png'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\gate-01.png
+      projectPath: Assets\Sprites\gate-01.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\gate-01.png.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\gate-01.png.meta
+      projectPath: Assets\Sprites\gate-01.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\player-stand-1.png'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\player-stand-1.png
+      projectPath: Assets\Sprites\player-stand-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\player-stand-1.png.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\player-stand-1.png.meta
+      projectPath: Assets\Sprites\player-stand-1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\player-stand-2.png'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\player-stand-2.png
+      projectPath: Assets\Sprites\player-stand-2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\player-stand-2.png.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\player-stand-2.png.meta
+      projectPath: Assets\Sprites\player-stand-2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\player-stand-3.png'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\player-stand-3.png
+      projectPath: Assets\Sprites\player-stand-3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\player-stand-3.png.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\player-stand-3.png.meta
+      projectPath: Assets\Sprites\player-stand-3.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\shot-1.png'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\shot-1.png
+      projectPath: Assets\Sprites\shot-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\shot-1.png.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\shot-1.png.meta
+      projectPath: Assets\Sprites\shot-1.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\shot-2.png'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\shot-2.png
+      projectPath: Assets\Sprites\shot-2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Sprites\shot-2.png.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Sprites\shot-2.png.meta
+      projectPath: Assets\Sprites\shot-2.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 5babc17295ca24362c7bd6b0baf88b6dbfdb2e9f
+    mergeA: 
+    mergeB: 
+    authorName: Kayardr
+    authorEmail: ricardo.castanon@uabc.edu.mx
+    commitEmail: ricardo.castanon@uabc.edu.mx
+    commitName: Kayardr
+    summary: Movimiento base completado
+    description: 
+    timeString: 2020-03-21T11:19:40.000-07:00
+    commitTimeString: 2020-03-21T11:19:40.000-07:00
+    changes:
+    - path: '@Mayapan\Assets\Prefabs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\PlayerMovement.cs'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\PlayerMovement.cs
+      projectPath: Assets\Scripts\PlayerMovement.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scripts\PlayerMovement.cs.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scripts\PlayerMovement.cs.meta
+      projectPath: Assets\Scripts\PlayerMovement.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 83db4e84e3bda57e21a94812aed5d8c82ce4f3aa
+    mergeA: 
+    mergeB: 
+    authorName: Kayardr
+    authorEmail: ricardo.castanon@uabc.edu.mx
+    commitEmail: ricardo.castanon@uabc.edu.mx
+    commitName: Kayardr
+    summary: Nueva version de unity
+    description: Unity 2019.3.4f1
+    timeString: 2020-03-07T13:36:37.000-08:00
+    commitTimeString: 2020-03-07T13:36:37.000-08:00
+    changes:
+    - path: '@Mayapan\ProjectSettings\ProjectVersion.txt'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: b2de5bade8a2849ff3171d6e73f70cf8ef1d81c1
+    mergeA: 
+    mergeB: 
+    authorName: kayardr
+    authorEmail: ricardo.castanon@uabc.edu.mx
+    commitEmail: ricardo.castanon@uabc.edu.mx
+    commitName: kayardr
+    summary: Void Project
+    description: 
+    timeString: 2020-03-06T13:44:35.000-08:00
+    commitTimeString: 2020-03-06T13:44:35.000-08:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scenes.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scenes\SampleScene.unity'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Assets\Scenes\SampleScene.unity.meta'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\Packages\manifest.json'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\AudioManager.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\ClusterInputManager.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\DynamicsManager.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\EditorBuildSettings.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\EditorSettings.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\GraphicsSettings.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\InputManager.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\NavMeshAreas.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\NetworkManager.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\Physics2DSettings.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\PresetManager.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\ProjectSettings.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\ProjectVersion.txt'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\QualitySettings.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\TagManager.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\TimeManager.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\UnityConnectSettings.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\VFXManager.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: '@Mayapan\ProjectSettings\XRSettings.asset'
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\@Mayapan\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 138e00722f414cbbcc37ffdefd05c8fee6216a2c
+    mergeA: 
+    mergeB: 
+    authorName: "Ricardo Casta\xF1on Renteria"
+    authorEmail: 39653695+Kayardr@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2020-03-06T13:41:21.000-08:00
+    commitTimeString: 2020-03-06T13:41:21.000-08:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\OscarM\Desktop\-MAYAPAN\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
